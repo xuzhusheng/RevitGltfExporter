@@ -1,6 +1,6 @@
 # RevitGltfExporter
 
-RevitGltfExporter is a revit add in for exporting model to glTF format.. Built and test at Revit 2018
+RevitGltfExporter is a revit add-in for exporting model to glTF format. Built and test at Revit 2018
 
 ## Usage
 
