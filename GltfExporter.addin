@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8" standalone ="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2018\GltfExporter\RevitGltfExporter.dll</Assembly>
+    <AddInId>13b4ad15-75fb-4435-bf16-685a7bfc939b</AddInId>
+    <FullClassName>RevitGltfExporter.Command</FullClassName>
+    <Text>Export glTF</Text>
+    <VendorId>NAME</VendorId>
+  </AddIn>
+</RevitAddIns>

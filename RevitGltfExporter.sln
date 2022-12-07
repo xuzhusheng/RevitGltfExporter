@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitGltfExporter", "RevitGltfExporter.csproj", "{13B4AD15-75FB-4435-BF16-685A7BFC939B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B4AD15-75FB-4435-BF16-685A7BFC939B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B4AD15-75FB-4435-BF16-685A7BFC939B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B4AD15-75FB-4435-BF16-685A7BFC939B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B4AD15-75FB-4435-BF16-685A7BFC939B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE56C88-95DF-4DA7-8AFE-A041DEEDA760}
+	EndGlobalSection
+EndGlobal
